@@ -1,0 +1,23 @@
+Reflection Questions
+
+
+1. if-elif-else statement for a user's travel destination
+
+destination = input("Where would you like to travel: ")
+
+if destination == "Japan":
+  print("Enjoy your stay in Japan!")
+elif desination == "Germany"
+  print("Enjoy your stay in Germany!")
+elif destination == "Italy"
+  print("Enjoy your stay in Italy!")
+else:
+  print("Oops, that destination is not currently available.")
+
+
+2. In Python, logical operators or boolean logic operators are words that help check multiple conditions at once to arrive at where those multiple conditions amount to true or false.  An example is that maybe you want a recipe that takes less than 15 minutes and uses less than 3 ingredients, logical operators would help meet these conditions and provide recipes based on these met conditions.  In this example the "and" is the logical operator making sure both conditions are met.
+
+3. In Python, functions are like methods that you can call upon to perform a certain set of instructions rather than write the entire set of instructions each time you need them.  Once you define a function, you can recall this function within your code anytime condensing code and saving space.  They are useful for readability and not repeating code.
+
+4. I've progressed on some of my goals from exercise 1.1 in that I commented some of the code here in exercise 1.3.  This helped me read the code again and remember what each piece was doing.  Task 1.3 has helped me learned the basics of Python and the many tools it comes with.  It's also shown me the simplicity of the syntax of Python.
+
