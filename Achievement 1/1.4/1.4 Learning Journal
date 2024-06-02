@@ -1,0 +1,28 @@
+Reflection
+
+
+1. File storage is important while using Python in order for data to
+be stored and not be erased as soon as the script is done running. If you didn't
+store the local files the data would be deleted forever.
+
+2. Pickles involve converting complex data into a packaged stream of bytes which in turn is written
+into a binary file. This is helpful for the machine to store this complex
+information. You would choose to use pickles when you wanted to store complex
+data like dictionaries when using Python because this helps save and store
+objects more easily.
+
+3. To find out which directory you're currently in you
+would want to use the os.getcwd() function. To change your current working
+directory you would use the os.chdir() function.
+
+4. To prevent an entire script from terminating due to an error you would want to write a try-except block.
+Within the try block of code you try to execute the code you think might have an
+error within it. Within the except block of code you let the user know there is
+an error or better yet a specific error and how to move forward to resolve the
+error. This gives you a chance to resolve different instances of errors while
+still running the rest of your code block and not just terminating suddenly.
+
+5.  I feel like things are going well and I'm intaking the material well. I'm proud
+of commenting the code and making things as minimal and least redundant as
+possible. I'm learning it is wise to print different messages within the code to
+understand what happens when inputting data into the terminal.
