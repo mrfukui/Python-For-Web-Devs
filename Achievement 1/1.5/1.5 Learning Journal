@@ -1,0 +1,8 @@
+Reflection
+
+
+1.  Object-oriented programming is the simplest and most concise way to create and produce objects.  These objects can contain data as well as methods and can be reproduced easily.  The benefits of OOP is that you can produce multiple objects without repeating too much code and inputting only the new data relevant to the new object.  So you can create child objects out of the parent objects where the children "inherit" attributes and methods but also can be customized with new ones.
+
+2.  Classes are essentially the base for the objects that you will create out of the objects.  Say you wanted to create a class of "Student" with attributes of name and age and grade.  Once you created this class you could easily produce objects with this "Student" class or manipulate this data how you see fit.  Classes are kind basically the details differentiating different objects.
+
+3.  Inheritance is essentially when a "subclass" or "inherited class" inherits properties or methods from its "parent class" or "base class."  Whatever properties or methods you define within the parent class will be inherited by the inherited class or new object that was created with the parent class.  Polymorphism is when an attribute or method has the same name in different objects or classes but operate different because they were defined differently within the object or class.  Kind of when a local variable is defined, it only works within the scope of that function.  Operators do not work on a custom class therefore we use Operator Overloading.  Operator Overloading allows custom objects to define their behavior for operators.
