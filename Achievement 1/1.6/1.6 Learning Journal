@@ -1,0 +1,12 @@
+Reflection
+
+
+1.  Databases are essentially storage for data.  This is a more stable way to store and access data.  The advantages of databases are that you can limit access to certain users and you can customize how you format and organize the data.
+
+2.  3 types of data that can be used in MySQL are VARCHAR(n), INT, and FLOAT.  VARCHAR(n) is essentially a string with length n.  INT stands for integers.  And FLOAT stands for floating point decimal numbers. 
+
+3.  SQLite would be a better choice than MySQL if you wanted to build something to store something simple like email addresses.  As the name suggests, it is the lighter version that is portable and does not require installation.
+
+4.  Python seems like its syntax is a little bit more simple and straightforward than JavaScript.  However, I feel like JavaScript has more capabilities and potential.  Python definitely feels easier to write code for the backend and with dealing with databases.
+
+5.  Python is limited simply by its structure which is executing one line at a time.  This makes it powerful in one way but then lacks when it comes to multi-threaded applications.  This means Python is less suited for mobile applications or applications that are memory intensive. 
