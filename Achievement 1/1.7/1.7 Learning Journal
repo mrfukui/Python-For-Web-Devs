@@ -1,0 +1,14 @@
+Reflection
+
+
+1.  An Object Relational Mapper is a tool that uses classes and objects to interact with a database such as SQL.  The advantage of using an ORM is that you don't have to use database syntax and can continue to use python and object syntax.
+
+2.  I think overall, I learned a lot about python and back-end development and I think it went well.  I did well with structuring my code and making sure my comments were easy to read and understand.  If I were to start over I would make sure there was a little bit more space between output in the terminal so that the user has an easier time reading everything.  
+
+3.  I have experience with python in creating a recipe app in a couple different ways.  First by interacting with MySQL directly but also by using an Object Relational Mapper called SQLAlchemy.  So I understand MySQL database syntax as well as using an ORM to connect to Python.  I understand how to interact with the database whether that be to enter, retrieve, modify, delete, and or organize data using python.  I made recipe apps that stored the id, name, ingredients, cooking time, and difficulty level based on certain conditions.
+
+4.  a.  During this achievement what went well was fixing errors within my code.  I was quickly able to understand the errors within the terminal and locate the issues.
+    b.  I'm proud of keeping on schedule and sticking to my due dates I created within trello. 
+    c.  The most challenging aspect of this achievement was understanding methods that would help me achieve an objective or line of code.  Also just finding how to write code concisely without unnecessary lines of code.
+    d.  This achievement did meet my expectations and gave me a lot of confident in working with Python.  It feels very straightforward and there's a lot of knowledge and helpful tips out there on how to write code in Python.
+    e.  I want to keep in mind making sure I stick to commenting my code and formatting and spacing everything out nicely so it is readable and easy to access.  But also to not be afraid to google pieces of code that I do not understand.
